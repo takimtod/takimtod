@@ -13,11 +13,12 @@
   <a href="https://github.com/ZansLord"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie🙀;Currently+Learning+Javascript.;Don't+bully+me+>//<" alt="UwU">
 </p>
 
-<p align="center">
-  <img src="https://i.postimg.cc/cCSjJ8Fx/IMG-20211114-WA0331.jpg" />
-</p>
-<h1 align="center">Just Be A simple
-</p>
+<p 
+--------
+
+![My card name](https://cardivo.vercel.app/api?name=ZansLord&description=DOOOR,%20WELCOME%20TO%20di%20github%20ZansLord%20&image=https://github.com/Piubit.png?v=4&backgroundColor=%23ecf0f1&instagram=Piubitt&github=Piubit&pattern=leaf&colorPattern=%23eaeaea)
+
+ ---------
 
 
 ## ```FOLLOW ALL SOSIALMEDIA ME```
