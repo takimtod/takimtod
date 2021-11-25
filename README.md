@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Bruh Welcome To my profile👋
 
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/90433321?v=4" />
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="<a href="https://imgbb.com/"><img src="https://i.postimg.cc/02Cnp4y0/IMG-20210726-151313-026-transcpr.jpg" />
+  <img src="<a href="https://i.postimg.cc/cCSjJ8Fx/IMG-20211114-WA0331.jpg" />
 </p>
 <h1 align="center">Just Be A simple
 </p>
