@@ -55,8 +55,8 @@
 
 ### Github Stats 🚀
 
-<p align="center"><a href="https://github.com/ZansLord"><img src="https://github-readme-stats.vercel.app/api?username=zeeoneofc&show_icons=true&theme=radical"></a></p>
-<p align="center"><a href="https://github.com/ZansLord"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeoneofc&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/ZansLord"><img src="https://github-readme-stats.vercel.app/api?username=ZansLord&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/ZansLord"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZansLord&theme=radical&layout=compact"></a></p>
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=ZansLord&repo=BOTZ7&theme=dark)
