@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="<a href="https://imgbb.com/"><img src="https://i.ibb.co/2gzSQFk/FB-IMG-16335843592778560.jpg" />
+  <img src="<a href="https://imgbb.com/"><img src="https://i.postimg.cc/02Cnp4y0/IMG-20210726-151313-026-transcpr.jpg" />
 </p>
-<h1 align="center">Badjingan Luwh
+<h1 align="center">Just Be A simple
 </p>
 
 
@@ -37,7 +37,7 @@
 
 ### AOV ROV🎮
 <p align="center">
-  <img src="https://tenor.com/bv6ei.gif" />
+  <img src="https://github.com/ZansLord/ZansLord/blob/main/aov-rov.gif" />
 </p>
 
 ------
