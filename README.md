@@ -32,13 +32,6 @@
 <a href="https://chat.whatsapp.com/LTL9J5K0dxp65WspruIQuW"><img alt="WhatsApp" src="https://img.shields.io/badge/BLACKTEAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://chat.whatsapp.com/CmDC4mExUBv4yixQAJfJBX"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP ALL BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-
-### TITAN 🗿
-<p align="center">
-  <img src="https://github.com/takimtod/takimtod/blob/main/keren.gif" />
-</p>
-
-
 ------
 
 ### Spotify Playing 🎧
