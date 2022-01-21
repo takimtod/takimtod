@@ -1,7 +1,7 @@
 ### Hi Bruh Welcome To my profile👋
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/90433321?v=4" />
+  <img src="https://telegra.ph/file/61d68e7f38b756dd7d689.jpg" />
 </p>
 <h1 align="center">This Me Takim
 </p>
@@ -16,7 +16,7 @@
 <p 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=Takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://avatars.githubusercontent.com/u/90433321?v=4&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=Takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://telegra.ph/file/61d68e7f38b756dd7d689.jpg&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
 
  ---------
 
