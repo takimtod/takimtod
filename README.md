@@ -35,7 +35,7 @@
 
 ### TITAN 🗿
 <p align="center">
-  <img src="https://github.com/takimtod/takimtod/blob/main/keren.mp4" />
+  <img src="https://github.com/takimtod/takimtod/blob/main/keren.gif" />
 </p>
 
 
