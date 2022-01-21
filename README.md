@@ -10,13 +10,13 @@
 <h1 align="center">Hello <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="30px" alt="hi"><br></h1>
 
 <p align="center">
-  <a href="https://github.com/Takimtod"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie;Currently+Learning+Javascript.;Don't+bully+me+>//<" alt="UwU">
+  <a href="https://github.com/takimtod"><img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hi!+im+a+Newbie;Currently+Learning+Javascript.;Don't+bully+me+>//<" alt="UwU">
 </p>
 
 <p 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=Takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://telegra.ph/file/61d68e7f38b756dd7d689.jpg&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://telegra.ph/file/61d68e7f38b756dd7d689.jpg&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
 
  ---------
 
@@ -28,10 +28,16 @@
 </p>
 
 ## ```MY GROUP SUPPORT```
-<a href="https://chat.whatsapp.com/EovTV7blporBvWncIOXDBA"><img alt="WhatsApp" src="https://img.shields.io/badge/EXTREAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/HWa1DK06ToO16kTkqlc4S4"><img alt="WhatsApp" src="https://img.shields.io/badge/EXTREAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://chat.whatsapp.com/LTL9J5K0dxp65WspruIQuW"><img alt="WhatsApp" src="https://img.shields.io/badge/BLACKTEAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://chat.whatsapp.com/CmDC4mExUBv4yixQAJfJBX"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP ALL BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://chat.whatsapp.com/CzJ7a4HnT7TFsrxoyvDZwD"><img alt="WhatsApp" src="https://img.shields.io/badge/BIJIKERS-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+
+### TITAN 🗿
+<p align="center">
+  <img src="https://github.com/takimtod/takimtod/blob/main/keren.mp4" />
+</p>
+
 
 ------
 
