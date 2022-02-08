@@ -30,7 +30,7 @@
 ## ```MY GROUP SUPPORT```
 <a href="https://chat.whatsapp.com/HWa1DK06ToO16kTkqlc4S4"><img alt="WhatsApp" src="https://img.shields.io/badge/EXTREAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://chat.whatsapp.com/LTL9J5K0dxp65WspruIQuW"><img alt="WhatsApp" src="https://img.shields.io/badge/BLACKTEAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://chat.whatsapp.com/CmDC4mExUBv4yixQAJfJBX"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP ALL BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/CFpy7emsxtqGTCqW4ZUKpl"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP ALL BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ------
 
