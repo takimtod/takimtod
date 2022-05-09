@@ -18,14 +18,7 @@
 
 ![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://telegra.ph/file/61d68e7f38b756dd7d689.jpg&backgroundColor=%23ecf0f1&instagram=zyee_ez&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
 
- ---------
-
-
-## ```FOLLOW SOSMED ME```
-<p align="center">
-<a href="https://instagram.com/zyee_ez"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/+6282194424412"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+---------
 
 ### ```SOCIAL MEDIA```
 - [![Owner ](https://img.shields.io/badge/Developer-Takimtod-brightgreen)](https://wa.me/6282194424412)
