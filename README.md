@@ -28,9 +28,7 @@
 </p>
 
 ## ```MY GROUP SUPPORT```
-<a href="https://chat.whatsapp.com/HWa1DK06ToO16kTkqlc4S4"><img alt="WhatsApp" src="https://img.shields.io/badge/EXTREAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://chat.whatsapp.com/LTL9J5K0dxp65WspruIQuW"><img alt="WhatsApp" src="https://img.shields.io/badge/BLACKTEAM-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://chat.whatsapp.com/CFpy7emsxtqGTCqW4ZUKpl"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP ALL BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://chat.whatsapp.com/DaBXFf82aqwHc03v22E09D"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 ------
 
@@ -45,9 +43,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
 
-## buildpack save
-   https://github.com/clhuang/heroku-buildpack-webp-binaries.git
-   https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest
 
 ### Github Stats 🚀
 
