@@ -27,8 +27,11 @@
 <a href="https://wa.me/+6282194424412"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </p>
 
-## ```MY GROUP SUPPORT```
-<a href="https://chat.whatsapp.com/DaBXFf82aqwHc03v22E09D"><img alt="WhatsApp" src="https://img.shields.io/badge/GRUP BOTZ-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+### ```SOCIAL MEDIA```
+- [![Owner ](https://img.shields.io/badge/Developer-Takimtod-brightgreen)](https://wa.me/6282194424412)
+- [![Join Grup Bot ](https://img.shields.io/badge/Join%20Group-000000?style=social&logo=whatsapp&logoColor=brightgreen)](https://chat.whatsapp.com/DaBXFf82aqwHc03v22E09D) 
+- [![Instagram ](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=ff69b4)](https://instagram.com/zyee_ez)
+- [![Faceebok ](https://img.shields.io/badge/Facebook-ff007f?style=social&logo=facebook&logoColor=0080ff)](https://facebook.com/Kevin)
 
 ------
 
