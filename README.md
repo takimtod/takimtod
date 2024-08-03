@@ -1,4 +1,4 @@
-### Hi Bruh Welcome To my profile👋
+### Hi Welcome To my profile👋
 
 <p align="center">
   <img src="https://telegra.ph/file/61d68e7f38b756dd7d689.jpg" />
