@@ -17,7 +17,7 @@
 ---------
 
 ### ```SOCIAL MEDIA```
-- [![Owner ](https://img.shields.io/badge/Developer-Takimtod-brightgreen)](https://wa.me/6282194424412)
+- [![Owner ](https://img.shields.io/badge/Developer-Takimtod-brightgreen)](https://wa.me/628388024064)
 - [![Join Grup Bot ](https://img.shields.io/badge/Join%20Group-000000?style=social&logo=whatsapp&logoColor=brightgreen)](https://chat.whatsapp.com/DaBXFf82aqwHc03v22E09D) 
 - [![Instagram ](https://img.shields.io/badge/Instagram-000000?style=social&logo=instagram&logoColor=ff69b4)](https://instagram.com/mustakim_hasri)
 - [![Faceebok ](https://img.shields.io/badge/Facebook-ff007f?style=social&logo=facebook&logoColor=0080ff)](https://facebook.com/Kevin)
