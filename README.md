@@ -1,7 +1,7 @@
 ### Hi Welcome To my profile👋
 
 <p align="center">
-  <img src="https://telegra.ph/file/61d68e7f38b756dd7d689.jpg" />
+  <img src="https://pomf2.lain.la/f/3otbie9h.jpg" />
 </p>
 
 
