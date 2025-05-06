@@ -12,7 +12,7 @@
 
 ---
 
-![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod&image=https://pomf2.lain.la/f/3otbie9h.jpg&backgroundColor=%23ecf0f1&instagram=mustakim_hasri&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod&image=https://pomf2.lain.la/f/nppmwuk.webp&backgroundColor=%23ecf0f1&instagram=mustakim_hasri&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
 
 ---
 
