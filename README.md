@@ -12,16 +12,6 @@
 
 ---
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
-    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
-  </picture>
-</div>
-
----
-
 ### 📱 SOCIAL MEDIA
 
 - [![Owner](https://img.shields.io/badge/Developer-Takimtod-brightgreen)](https://wa.me/628388024064)
