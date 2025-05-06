@@ -12,7 +12,7 @@
 <p 
 --------
 
-![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://telegra.ph/file/61d68e7f38b756dd7d689.jpg&backgroundColor=%23ecf0f1&instagram=mustakim_hasri&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
+![My card name](https://cardivo.vercel.app/api?name=takimtod&description=DOOOR,%20WELCOME%20TO%20github%20takimtod%20&image=https://pomf2.lain.la/f/3otbie9h.jpg&backgroundColor=%23ecf0f1&instagram=mustakim_hasri&github=takimtod&pattern=leaf&colorPattern=%23eaeaea)
 
 ---------
 
@@ -27,7 +27,7 @@
 ### Spotify Playing 🎧
 
 <p align="center">
-  <a href="https://open.spotify.com/track/3A4FRzgve9BjfKbvVXRIFO?si=d5jDO41rReaZm7ikLJW66Q" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
+  <a href="https://open.spotify.com/track/0wULafSHeHYZFu54R9ZFRJ" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
 
 ------
