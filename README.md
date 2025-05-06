@@ -6,9 +6,19 @@
 
 <p align="center">
   <a href="https://github.com/takimtod">
-    <img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hi!+I'm+a+Newbie;Currently+Learning+JavaScript.;Don't+bully+me+>//<" alt="Typing SVG">
+    <img src="http://readme-typing-svg.herokuapp.com?color=FFFF00&center=true&vCenter=true&multiline=false&lines=Hi!+I'm+a+Newbie;Don't+bully+me+>//<" alt="Typing SVG">
   </a>
 </p>
+
+---
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="/github-contribution-grid-snake.svg"/>
+    <img src="/github-contribution-grid-snake.svg" alt="github-snake"/>
+  </picture>
+</div>
 
 ---
 
